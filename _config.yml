@@ -9,5 +9,3 @@ permalink: /event/:title.html
 source: ./src
 timezone: America/New_York
 url: "https://datadonuts.boston"
-sass:
-  sass_dir: ./src/_sass
