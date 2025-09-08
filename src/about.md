@@ -10,11 +10,11 @@ permalink: /about/
 
 <p>Our speakers and networking sessions will delve into the latest topics in technology: Big Data, Platform as a Service, DevOps, Open Data, Analytics and Visualization, Community Engagement, Civic Technology and more.</p>
 
-<h1>Past Speakers</h1>
+<!-- <h1>Past Speakers</h1>
 <ul>
 {% for speaker in site.data.speakers %}
   <li>
       <strong>{{ speaker[0] }}</strong>, {{ speaker[1].title }}, {{ speaker[1].org }}
   </li>
 {% endfor %}
-</ul>
+</ul> -->

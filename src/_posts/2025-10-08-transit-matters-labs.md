@@ -11,8 +11,8 @@ location: MIT_E25
 
 #event speaker details
 speakers:
-  - "Ruth Miller"
   - "Seth Kaplan"
+  - "TBD MBTA"
 slides: ""
 video: ""
 ---
