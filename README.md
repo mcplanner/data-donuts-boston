@@ -1,8 +1,9 @@
 # Data + Donuts
 
-[`datadonuts.la`](https://datadonuts.la)
+[`datadonuts.boston`](https://datadonuts.boston)
 
-Deployed via [![Netlify Status](https://api.netlify.com/api/v1/badges/8575d097-6b51-4d47-8ed1-2465cef03933/deploy-status)](https://app.netlify.com/sites/data-donuts/deploys)
+Deployed via Github Pages
+Developed with Jekyll `bundle exec jekyll serve --livereload`
 
 ## Purpose
 
@@ -20,7 +21,7 @@ Events will occur monthly, iteratively improving to meet the needs of the commun
 
 ## Resources
 
-Print cute name tags with the Data + Donuts logo using our [PDF template](https://github.com/compilerla/data-donuts/tree/main/src/assets/Data%20Aand%20ADonuts%20ALabels.pdf).
+Print cute name tags with the Data + Donuts logo using our [PDF template](https://github.com/mcplanner/data-donuts-boston/tree/main/src/assets/Data%20Aand%20ADonuts%20ALabels.pdf).
 
 Print onto Avery 42395 sticker badges, [Avery Template 5395 online](https://www.avery.com/templates/5395).
-![Name tag preview image](https://github.com/compilerla/data-donuts/blob/main/src/assets/nametag-preview.png)
+![Name tag preview image](https://github.com/mcplanner/data-donuts-boston/blob/main/src/assets/nametag-preview.png)

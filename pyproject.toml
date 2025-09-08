@@ -9,8 +9,8 @@ requires-python = ">=3.11"
 dependencies = []
 
 [project.urls]
-code = "https://github.com/compilerla/data-donuts"
-tracker = "https://github.com/compilerla/data-donuts/issues"
+code = "https://github.com/mcplanner/data-donuts-boston"
+tracker = "https://github.com/mcplanner/data-donuts-boston/issues"
 
 [project.optional-dependencies]
 dev = [

@@ -1,3 +1,8 @@
+MIT_E25:
+    name: MIT Building E25
+    image: "images/data-donuts-tiling-bg.png"
+    address: "45 Carleton St, Cambridge MA"
+    gmap: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5896.183627082442!2d-71.09001133081723!3d42.361882544432824!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e3719332c4f0a5%3A0x9e12192e68a572da!2sMIT%20Building%20E25!5e0!3m2!1sen!2sus!4v1757292455761!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 VIRTUAL:
     name: Virtual Webinar - RSVP for link
     image: "images/data-donuts-tiling-bg.png"

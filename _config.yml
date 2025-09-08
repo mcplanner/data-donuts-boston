@@ -1,12 +1,11 @@
-title: Data + Donuts LA
+title: Data + Donuts Boston
 description: Changing local government from the ground up.
-email: "data-donuts@compiler.la"
+email: "info@datadonuts.boston"
 event_label: Events
 # Publish posts or collection documents with a future date.
 future: true
-github: "compilerla/data-donuts"
+github: "mcplanner/data-donuts-boston"
 permalink: /event/:title.html
 source: ./src
-timezone: America/Los_Angeles
-url: "https://datadonuts.la"
-youtube: "youtube.com/channel/UC_mAa07EdkkGCn48lq0yj3Q"
+timezone: America/New_York
+url: "https://datadonuts.boston"
